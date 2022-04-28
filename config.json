@@ -1,7 +1,7 @@
 {
   "definitions": {
     "npm": {
-      "default": "8.7.0",
+      "default": "8.8.0",
       "transparent": {
         "commands": [
           [
@@ -28,7 +28,7 @@
       }
     },
     "pnpm": {
-      "default": "6.32.10",
+      "default": "6.32.11",
       "transparent": {
         "commands": [
           [
