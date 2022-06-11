@@ -28,7 +28,7 @@
       }
     },
     "pnpm": {
-      "default": "7.1.9",
+      "default": "7.2.0",
       "transparent": {
         "commands": [
           [
